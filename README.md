@@ -42,15 +42,15 @@ After training, sample test images were saved where pixels had been labeled. Roa
 
 ### Sample Images
 
-![sample1][runs/1536206499.5971024/um_000008.png]
+![sample1](https://github.com/westofpluto/CarND-Semantic-Segmentation-Ilgen/blob/master/runs/1536206499.5971024/um_000008.png)
 
-![sample2][runs/1536206499.5971024/um_000053.png]
+![sample2](https://github.com/westofpluto/CarND-Semantic-Segmentation-Ilgen/blob/master/runs/1536206499.5971024/um_000053.png)
 
-![sample3][runs/1536206499.5971024/um_000080.png]
+![sample3](https://github.com/westofpluto/CarND-Semantic-Segmentation-Ilgen/blob/master/runs/1536206499.5971024/um_000080.png)
 
-![sample4][runs/1536206499.5971024/umm_000039.png]
+![sample4](https://github.com/westofpluto/CarND-Semantic-Segmentation-Ilgen/blob/master/runs/1536206499.5971024/umm_000039.png)
 
-![sample5][runs/1536206499.5971024/umm_000088.png]
+![sample5](https://github.com/westofpluto/CarND-Semantic-Segmentation-Ilgen/blob/master/runs/1536206499.5971024/umm_000088.png)
 
 
 
