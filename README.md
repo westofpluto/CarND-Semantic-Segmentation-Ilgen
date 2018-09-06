@@ -4,7 +4,7 @@ Semantic Segmentation Project for Udacy SDC Nanodegree
 ### Overview
 The objective of this project was to label the pixels of a road in images from the [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php). Pixel labeling was done for two classes: road and not-road. The sementic segmentation code was written using Tensorflow to implement a Fully Convolutional Network (FCN) built on the well-known VGG16 network described [here](https://arxiv.org/abs/1605.06211). My implementation used the VGG layers 3, 4 and 7 outputs and added 1x1 convolution, upsample deconvolution, and skip layers. I also used L2 regularization to limit weight size and improve training results.
 
-![VGG16][https://github.com/westofpluto/CarND-Semantic-Segmentation-Ilgen/images/fcnarchvgg16.png]
+![VGG16](https://github.com/westofpluto/CarND-Semantic-Segmentation-Ilgen/images/fcnarchvgg16.png)
 
 ### Setup
 ##### GPU
